@@ -1,0 +1,7 @@
+n=int(input())
+d={}
+for i in range(n)
+  k=input()
+  v=input()
+  d.update({k:v})
+print(sorted(d.items(),key=lambda k:k[1]))
