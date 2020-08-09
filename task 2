@@ -1,3 +1,0 @@
-keys=['a','b','c']
-values=(1,2,3)
-data=dict(zip(keys,values))
